@@ -1,6 +1,0 @@
-{
-  "alboum":"Мы Гуляли По Лесу Измайловского Кремля",
-  "imageSong":"https://sun9-35.userapi.com/s/v1/ig2/f9mGrhZFQ8bhMnGK35vnwfzehCZGzxrWbVVQCS8cFVN9Bi5xGxh49s8slR3y2oxbRdhcom5Owz5gg6ANoUoz9TX-.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280&from=bu&u=EfO0MF6UxP7Jcz41HU4psxQ1-8ooK1SHDYMWavylwbk&cs=807x807",
-  "name":"Обнимать Твою Голову, Как И Четыре Года Назад, Не Думая О Плохом",
-  "artist":"цветение сакуры"
-}
