@@ -1,6 +1,0 @@
-{
-  "alboum":"Будь как дома, путник...",
-  "imageSong":"https://upload.wikimedia.org/wikipedia/ru/0/05/Kish_korol_i_shut_CD.jpg",
-  "name":"Лесник",
-  "artist":"Король и Шут"
-}
